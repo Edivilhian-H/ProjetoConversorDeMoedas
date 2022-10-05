@@ -53,7 +53,7 @@ const changeCurrency = () => {
     currencyImg.src = "./assets/estados-unidos (1) 1.svg";
   }
 
-  if (select.value === "Bitconin") {
+  if (select.value === "Bitcoin") {
     currencyName.innerHTML = "Bitcoin";
     currencyImg.src = "./assets/BTC.png";
   }
