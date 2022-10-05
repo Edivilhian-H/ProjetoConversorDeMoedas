@@ -10,7 +10,7 @@
 <p>-JavaScript</p>
 <br>
 <br>
-<a href="https://edivilhian-h.github.io/ProjetoConversorDeMoedas target="_blank" /">PROJETO AQUI!</a>
+<a href="https://edivilhian-h.github.io/ProjetoConversorDeMoedas/" target="_blank" rel="noopener noreferrer">PROJETO AQUI!</a>
 <br>
 <br>
 
