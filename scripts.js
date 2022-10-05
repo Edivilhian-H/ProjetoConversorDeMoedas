@@ -35,7 +35,7 @@ const convertValues = () => {
 
   if (select.value === "Bitcoin") {
 
-    dolaValueText.innerHTML =  convertedBtc.toFixed(4)
+    dolaValueText.innerHTML =  convertedBtc.toFixed(4) + " BTC"
   }
 };
 
