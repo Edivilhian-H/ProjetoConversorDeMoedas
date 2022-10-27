@@ -6,20 +6,24 @@
 }
 
 body {
+    height: 100vh;
     background-color: #e5e5e5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
     width: 375px;
     background-color: #f4f4f4;
-    margin: 0 auto;
-    margin-top: 100px;
-
 }
 
 header {
     background: #1B83E2;
     height: 66px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 h1 {
@@ -28,8 +32,6 @@ h1 {
     font-size: 24px;
     line-height: 18px;
     align-items: center;
-    text-align: center;
-    padding-top: 24px;
 
     color: #F4F4F4;
 }
@@ -111,11 +113,18 @@ section {
     width: 100%;
     border: 1px solid #1B83E2;
     border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    gap:  17px;
+    align-items: center;
 }
 
 .section-container {
-    text-align: center;
     padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
 }
 
 .section-name {
@@ -128,7 +137,7 @@ section {
 
 .arrow-img{
     display: block;
-    margin: 14px auto;
+
     
 }
 
